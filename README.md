@@ -1,5 +1,6 @@
 # lab4
 repository for lab work 4 
+
 Chocolate chip cookies
 1. In a deep bowl, mix soft butter, sugar, vanilla sugar and salt until smooth.
 2. Add the eggs and cocoa, mix again.
