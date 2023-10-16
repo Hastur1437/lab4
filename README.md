@@ -18,7 +18,7 @@
 - ___Bake the cookies for 15 minutes at 180 degrees.___
 - ~~*__Finished chocolate cookies carefully transfer to a plate and let them cool.__*~~
 
-  [Мой любимый фильм](https://www.kinopoisk.ru/film/382/?utm_referrer=www.google.com)
+  [Мой любимый фильм](https://www.kinopoisk.ru/film/382/?utm_referrer=www.google.com](https://www.kinopoisk.ru/film/435/)
        
 ![Alt-текст](https://memepedia.ru/wp-content/uploads/2020/11/sobaka-v-kostjume-adidas-1.jpeg "Cat")
 
