@@ -11,3 +11,7 @@ Chocolate chip cookies
 6. Bake the cookies for 15 minutes at 180 degrees.
 7. Finished chocolate cookies carefully transfer to a plate and let them cool.
 Bon appetit!
+
+:white_check_mark: Готово?
+:negative_squared_cross_mark: Не готов
+:black_square_button: Под вопросом 
