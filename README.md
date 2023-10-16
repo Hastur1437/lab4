@@ -15,3 +15,8 @@ Bon appetit!
 :white_check_mark: Готово?
 :negative_squared_cross_mark: Не готов
 :black_square_button: Под вопросом 
+
+| 1 | 2 | 3 |
+|----------------|:---------:|----------------:|
+| Один | Два | Три |
+| One | Two | Three |
