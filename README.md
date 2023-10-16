@@ -13,6 +13,7 @@ Chocolate chip cookies
 Bon appetit!
 
 ![Alt-текст](https://cs10.pikabu.ru/post_img/big/2019/11/27/10/1574873982118078973.jpg "Пора мыть жопу")
+
 :white_check_mark: Готово?
 :negative_squared_cross_mark: Не готов
 :black_square_button: Под вопросом 
