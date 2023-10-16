@@ -8,7 +8,7 @@
     - __Put the dough in the refrigerator for a couple of hours.__
 - _From the dough roll balls the size of walnuts and place on a baking tray lined with parchment, 5 cm apart._
 - ___Bake the cookies for 15 minutes at 180 degrees.___
-- __*~~Finished chocolate cookies carefully transfer to a plate and let them cool.__*~~
+- ~~*__Finished chocolate cookies carefully transfer to a plate and let them cool.__*~~
        
 ![Alt-текст](https://cs10.pikabu.ru/post_img/big/2019/11/27/10/1574873982118078973.jpg "Пора мыть жопу")
 
