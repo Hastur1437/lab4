@@ -20,7 +20,7 @@
 
   [Мой любимый фильм](https://www.kinopoisk.ru/film/382/?utm_referrer=www.google.com)
        
-![Alt-текст](https://cs10.pikabu.ru/post_img/big/2019/11/27/10/1574873982118078973.jpg "Пора мыть жопу")
+![Alt-текст](https://memepedia.ru/wp-content/uploads/2020/11/sobaka-v-kostjume-adidas-1.jpeg "Cat")
 
 :white_check_mark: Готово?
 :negative_squared_cross_mark: Не готово
