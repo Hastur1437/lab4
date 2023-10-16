@@ -1,6 +1,6 @@
 # Лабораторная 4
-## Лабораторная 4
-repository for lab work 4 
+# Лабораторная 4 Гусятников Иван 20КИП1
+### repository for lab work 4 
 
 Chocolate chip cookies
 1. In a deep bowl, mix soft butter, sugar, vanilla sugar and salt until smooth.
