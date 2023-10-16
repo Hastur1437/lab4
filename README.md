@@ -2,6 +2,15 @@
 # Лабораторная 4 Гусятников Иван 20КИП1
 ### repository for lab work 4 
 
+> 6:00 Подъём
+> 7:00 Утренний туалет
+> 8:00 Завтрак
+> 9:00 Нападение на Украину
+> 12:00 Обед
+> 13:00 Взятие Киева
+> 18:00 Концерт Кишлака
+> 21:00 Салют   
+
 -  **In a deep bowl, mix soft butter, sugar, vanilla sugar and salt until smooth.**
     - ~~Add the eggs and cocoa, mix again.~~
 - ***Mix the leavening agent with the sifted flour and introduce it into the dough in batches, mixing well each time.***
